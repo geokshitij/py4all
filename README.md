@@ -7,6 +7,9 @@ This is not just a coding tutorial — it's a guide to understanding the Python 
 📄 **Download the PDF Tutorial**  
 [👉 Click here to download](./Tutorial.pdf)
 
+📝 **Read the Medium Article**  
+[👉 The Bare Minimum Python Guide — Why Learning Syntax Won’t Make You Valuable](https://medium.com/@kdahal3/the-bare-minimum-python-guide-why-learning-syntax-wont-make-you-valuable-1f55a4ef81a5)
+
 ---
 
 ## 📚 What’s Inside?
